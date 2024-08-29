@@ -1,3 +1,4 @@
+![logo](https://github.com/Priya-Thakur25/Priya-Thakur25/blob/main/1712295021226.jpeg)
 <h1 align="center">Hi 👋, I'm Priya Thakur</h1>
 <h3 align="center">A passionate Software || frontend developer 🧡</h3>
 
